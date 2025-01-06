@@ -19,12 +19,13 @@
 
 <br /> <br />
 
-**GoPorts** <br />
+**Fries** <br />
 • About <br />
-ㅤ◦ GoPorts is a profile with repositorys with random imports to software  <br />
+ㅤ◦ Info  <br />
 ㅤㅤ· Suggestions are allowed, i'd be happy to see you people's ideas! :D <br />
-ㅤㅤ· Svelte+ is a tool written in TypeScript and converts simple terms into Svelte code <br />
+ㅤㅤ· Svelte+ is a tool written in JavaScript Script and converts simple terms into Svelte code <br />
 ㅤㅤ· Go.js is a tool which converts simple terms into Go code, similer to Svelte+ <br />
+ㅤㅤ·  Check out [Fries' Productions](https://github.com/Fries-Productions), some Repositorys are created in there
 
 
 **Repositorys** <br />
