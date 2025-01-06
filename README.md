@@ -28,5 +28,5 @@
 
 
 **Repositorys** <br />
-ㅤㅤ· [Go.js](Fries-byte/SveltePLUS) <br />
+ㅤㅤ· [Go.js](https://github.com/Fries-byte/SveltePLUS) <br />
 ㅤㅤ· [Svelte+](https://github.com/Fries-byte/SveltePLUS) <br />
