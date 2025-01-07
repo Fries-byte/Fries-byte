@@ -61,5 +61,5 @@
 
 ### Repositorys <br />
 ㅤㅤ· [Fries-Search](https://github.com/Fries-byte/Fries-Search) <br />
-ㅤㅤ· [Go.js](https://github.com/Fries-byte/Go-js) <br />
+ㅤㅤ· [Go.js](https://github.com/Fries-byte/Go.js) <br />
 ㅤㅤ· [Svelte+](https://github.com/Fries-byte/SveltePLUS) <br />
