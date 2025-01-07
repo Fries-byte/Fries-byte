@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0ac507f2-0b40-45ff-942a-a19e2e2bb6cf" style="width: 100px;">
   <img src="https://avatars.githubusercontent.com/u/178406918?s=400&u=da6fc850b2e1e72b9cd13c46da19a5b8f16d14ec&v=4" width="150px" style="border-radius: 75px;" alt="@Fries-byte"/>
-
+</p>
+<p align="center" style="color: grey;">
+  pfp will automaticlly change when i change my pfp
 </p>
 <br> 
 
@@ -30,7 +32,6 @@
 • About <br />
 ㅤ◦ Info  <br />
 ㅤㅤ· Suggestions are allowed, i'd be happy to see you people's ideas! :D <br />
-ㅤㅤ· Svelte+ is a tool written in JavaScript Script and converts simple terms into Svelte code <br />
 ㅤㅤ· Check out [Fries' Productions](https://github.com/Fries-Productions), some Repositorys are created in there <br /><br />
 ### Fries-Search <br />
 • About <br />
