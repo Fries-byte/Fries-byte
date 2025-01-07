@@ -1,4 +1,4 @@
-<p align="center">Welcome To my profile</p>
+<p align="center">Welcome to my profile</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0ac507f2-0b40-45ff-942a-a19e2e2bb6cf" style="width: 100px;">
   <img src="https://avatars.githubusercontent.com/u/178406918?s=400&amp;u=da6fc850b2e1e72b9cd13c46da19a5b8f16d14ec&amp;v=4" style="width: 150px;" alt="@Fries-byte"/> 
