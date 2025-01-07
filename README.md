@@ -26,7 +26,7 @@
 > please add it into issues so i can fix it <br />
 <br />
 <details>
-  <summary>About me and my repositorys</summary>
+  <summary><h2>About me and my repositorys</h2></summary>
   
 ### Fries (Me) <br />
 • About <br />
