@@ -50,7 +50,7 @@
 
 ### Svelte+ <br />
 • About <br />
-ㅤㅤ· Svelte+ is similer to Go.js, i'd recommend reading Go.js > About for the info
+ㅤㅤ· Svelte+ is similer to Go.js, i'd recommend reading Go.js > About for the info  <br />
 • Why make this <br />
 ㅤㅤ· Because i like svelte, sorry for wasting your time ): <br />
 • More info (Same as Go.js) <br />
