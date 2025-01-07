@@ -18,7 +18,7 @@
 <br />
 <hr>
 
-> [!WARNING]
+> ### NOTICE 
 > none of the files has a virus, you can scan the files/code [VirusTotal](https://www.virustotal.com/gui/home/upload) <br />
 > if your computer mistakes one of the files as a virus,<br />
 > please add it into issues so i can fix it <br />
