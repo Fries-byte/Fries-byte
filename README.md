@@ -3,9 +3,6 @@
   <img src="https://github.com/user-attachments/assets/0ac507f2-0b40-45ff-942a-a19e2e2bb6cf" style="width: 100px;">
   <img src="https://avatars.githubusercontent.com/u/178406918?s=400&u=da6fc850b2e1e72b9cd13c46da19a5b8f16d14ec&v=4" width="150px" style="border-radius: 75px;" alt="@Fries-byte"/>
 </p>
-<p align="center" style="color: grey;">
-  pfp will automaticlly change when i change my pfp
-</p>
 <br> 
 
 [![Download zip](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://google.com)
