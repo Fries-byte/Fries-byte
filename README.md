@@ -58,7 +58,7 @@
 • About <br />
 ㅤㅤ· Quantum is a low-level programming language programmed for fun
 • Website <br />
-ㅤㅤ· The website for Quantum where you can learn, get more info, and program with its build-in compiler!
+ㅤㅤ· The website for Quantum where you can learn, get more info, and program with its build-in compiler!<br />
 ㅤㅤ· Site: [Quantum](https://fries-byte.github.io/quantumweb)
 <br /><br />
 </details>
