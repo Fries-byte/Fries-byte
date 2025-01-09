@@ -54,9 +54,17 @@
 ㅤㅤ· Because i like svelte, sorry for wasting your time ): <br />
 • More info (Same as Go.js) <br />
 ㅤㅤ· Since its written in JavaScript, you need to use [Node.js](https://nodejs.org). If you dont have a JavaScript compiler, use DevTools <br /><br />
+### Quantum <br />
+• About <br />
+ㅤㅤ· Quantum is a low-level programming language programmed for fun
+• Website <br />
+ㅤㅤ· The website for Quantum where you can learn, get more info, and program with its build-in compiler!
+ㅤㅤ· Site: [Quantum](https://fries-byte.github.io/quantumweb)
+<br /><br />
 </details>
 
 ### Repositorys <br />
 ㅤㅤ· [Fries-Search](https://github.com/Fries-byte/Fries-Search) <br />
 ㅤㅤ· [Go.js](https://github.com/Fries-byte/Go.js) <br />
 ㅤㅤ· [Svelte+](https://github.com/Fries-byte/SveltePLUS) <br />
+ㅤㅤ· [Quantim](https://github.com/fries-byte/Quantum)
