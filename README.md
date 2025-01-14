@@ -68,3 +68,9 @@
 ㅤㅤ· [Go.js](https://github.com/Fries-byte/Go.js) <br />
 ㅤㅤ· [Svelte+](https://github.com/Fries-byte/SveltePLUS) <br />
 ㅤㅤ· [Quantim](https://github.com/fries-byte/Quantum)
+<hr>
+
+#### Support me
+
+[![Shop](https://img.shields.io/badge/https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/FreshFrenchFries)
+
