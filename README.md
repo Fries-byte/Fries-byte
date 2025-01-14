@@ -26,7 +26,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fries-byte&layout=compact) <br>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fries-byte&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fries-byte&show_icons=true)
 
 
 <hr>
