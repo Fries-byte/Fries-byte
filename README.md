@@ -22,6 +22,17 @@
 > if your computer mistakes one of the files as a virus,<br />
 > please add it into issues so i can fix it <br />
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fries-byte&layout=compact) <br>
+<hr>
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fries-byte&show_icons=true&theme=dark)
+
+
+
+
+
 <details>
   <summary><h2>About me and my repositorys</h2></summary>
   
@@ -62,6 +73,8 @@
 ㅤㅤ· Site: [Quantum](https://fries-byte.github.io/quantumweb)
 <br /><br />
 </details>
+
+
 
 ### Repositorys <br />
 ㅤㅤ· [Fries-Search](https://github.com/Fries-byte/Fries-Search) <br />
