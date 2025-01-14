@@ -21,16 +21,15 @@
 > none of the files has a virus, you can scan the files/code [VirusTotal](https://www.virustotal.com/gui/home/upload) <br />
 > if your computer mistakes one of the files as a virus,<br />
 > please add it into issues so i can fix it <br />
-<br />
+<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fries-byte&layout=compact) <br>
-<hr>
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fries-byte&show_icons=true&theme=dark)
 
 
-
+<hr>
 
 
 <details>
