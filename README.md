@@ -36,10 +36,11 @@
   <summary><h2>About me and my repositorys</h2></summary>
   
 ### Fries (Me) <br />
-• About <br />
-ㅤ◦ Info  <br />
-ㅤㅤ· Suggestions are allowed, i'd be happy to see you people's ideas! :D <br />
-ㅤㅤ· Check out [Fries' Productions](https://github.com/Fries-Productions), some Repositorys are created in there <br /><br />
+Im a software developer who builds fun and useful projects like Go.js and Svelte+ <br>
+I learned programming by [Brocode](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ), his videos are easy to learn <br>
+I also build my own programming language PiStud, it might be useful, the reason why i am still building the project is simply because its fun! <br>
+also 13 years old
+
 ### Fries-Search <br />
 • About <br />
 ㅤㅤ· Its Free 2 Publish a website on Fries-Search for github websites!
@@ -53,7 +54,7 @@
 • About <br />
 ㅤㅤ· A easy to use tool for coding Go, use simple words to make a Go program<br />
 • Why make this <br />
-ㅤㅤ· Since go is quite popular and in high demand, i build this to make programming Go easier<br />
+ㅤㅤ· Since go is quite popular and in high demand, i build this to make programming Go easier <br />
 • More info <br />
 ㅤㅤ· Since its written in JavaScript, you need to use [Node.js](https://nodejs.org). If you dont have a JavaScript compiler, use DevTools <br /><br />
 
@@ -69,7 +70,7 @@
 ㅤㅤ· Quantum is a low-level programming language programmed for fun
 • Website <br />
 ㅤㅤ· The website for Quantum where you can learn, get more info, and program with its build-in compiler!<br />
-ㅤㅤ· Site: [Quantum](https://fries-byte.github.io/quantumweb)
+ㅤㅤ· Site: [Quantum](https://fries-byte.github.io/quantumweb) 
 <br /><br />
 </details>
 
