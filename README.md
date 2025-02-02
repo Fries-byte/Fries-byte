@@ -17,18 +17,9 @@
 <br />
 <hr>
 
-> ### NOTICE 
-> none of the files has a virus, you can scan the files/code [VirusTotal](https://www.virustotal.com/gui/home/upload) <br />
-> if your computer mistakes one of the files as a virus,<br />
-> please add it into issues so i can fix it <br />
-<hr>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fries-byte&layout=compact) <br>
 <br>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fries-byte&show_icons=true)
-
-
 <hr>
 
 
@@ -78,9 +69,9 @@ also 13 years old
 
 ### Repositorys <br />
 ㅤㅤ· [Fries-Search](https://github.com/Fries-byte/Fries-Search) <br />
-ㅤㅤ· [Go.js](https://github.com/Fries-byte/Go.js) <br />
-ㅤㅤ· [Svelte+](https://github.com/Fries-byte/SveltePLUS) <br />
-ㅤㅤ· [Quantim](https://github.com/fries-byte/Quantum)
+ㅤㅤ· [Go.js](https://github.com/Fries-byte/Go.js) · [Quantim](https://github.com/fries-byte/Quantum) <br>
+ㅤㅤ· [Svelte+](https://github.com/Fries-byte/SveltePLUS)  · [PiStud](https://github.com/PiStud-Lang/pistud)
+ㅤㅤ
 <hr>
 
 #### Support me
