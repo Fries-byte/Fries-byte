@@ -19,11 +19,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=pistud&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=quantum&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=fries-search&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=Fries-14-v2.1.3&theme=dark" />
 </a>
-
-<br><br><br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fries-byte&show_icons=true&theme=dark)
 <hr>
 
 
