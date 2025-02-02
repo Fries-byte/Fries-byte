@@ -17,12 +17,10 @@
 
 <a href="https://github.com/fries-byte/pistud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=pistud&theme=dark" />
-</a>
-<br><br>
-
-<a href="https://github.com/fries-byte/quantum">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=quantum&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=fries-search&theme=dark" />
 </a>
+
 <br><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fries-byte&show_icons=true&theme=dark)
