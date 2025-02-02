@@ -17,9 +17,15 @@
 
 <a href="https://github.com/fries-byte/pistud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=pistud&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=quantum&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=fries-search&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=Fries-14-v2.1.3&theme=dark" />
+  <a href="https://github.com/fries-byte/quantum">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=quantum&theme=dark" />
+  </a>
+  <a href="https://github.com/fries-byte/fries-search">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=fries-search&theme=dark" />
+  </a>
+  <a href="https://github.com/fries-byte/Fries-14-v2.1.3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=Fries-14-v2.1.3&theme=dark" />
+  </a>
 </a>
 <hr>
 
