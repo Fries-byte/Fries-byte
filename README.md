@@ -15,7 +15,17 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fries-byte&show_icons=true&theme=transparent)
+<a href="https://github.com/fries-byte/pistud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=pistud&theme=dark" />
+</a>
+<br><br>
+
+<a href="https://github.com/fries-byte/quantum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=quantum&theme=dark" />
+</a>
+<br><br><br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fries-byte&show_icons=true&theme=dark)
 <hr>
 
 
@@ -60,14 +70,6 @@ also 13 years old
 ㅤㅤ· Site: [Quantum](https://fries-byte.github.io/quantumweb) 
 <br /><br />
 </details>
-
-
-
-### Repositorys <br />
-ㅤㅤ· [Fries-Search](https://github.com/Fries-byte/Fries-Search) <br />
-ㅤㅤ· [Go.js](https://github.com/Fries-byte/Go.js) · [Quantim](https://github.com/fries-byte/Quantum) <br>
-ㅤㅤ· [Svelte+](https://github.com/Fries-byte/SveltePLUS)  · [PiStud](https://github.com/PiStud-Lang/pistud)
-ㅤㅤ
 <hr>
 
 #### Support me
