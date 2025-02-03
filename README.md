@@ -14,7 +14,9 @@
 [![Download zip](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://google.com)
 
 <br />
-### Pinned:
+
+### Pinned: <br>
+
 <a href="https://github.com/fries-byte/pistud">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fries-byte&repo=pistud&theme=dark" />
   <a href="https://github.com/fries-byte/quantum">
