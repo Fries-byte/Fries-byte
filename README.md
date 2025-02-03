@@ -79,4 +79,8 @@ also 13 years old
 
 [![Shop](https://img.shields.io/badge/https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/FreshFrenchFries)
 <br>
-### Other pins:
+### Other pins (not on this account): <br>
+
+<a href="https://github.com/pistud-lang/geodate">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pistud-lang&repo=geodate&theme=dark" />
+  </a>
