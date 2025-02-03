@@ -83,4 +83,7 @@ also 13 years old
 
 <a href="https://github.com/pistud-lang/geodate">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pistud-lang&repo=geodate&theme=dark" />
+    <a href="https://github.com/pistud-lang/pistud">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pistud-lang&repo=pistud&theme=dark" />
+    </a>
   </a>
